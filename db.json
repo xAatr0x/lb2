@@ -1,0 +1,49 @@
+[{
+  "title": "Senior Year",
+  "date": "2019",
+  "carrier": "DVD",
+  "actor":["Matias Taylor", "Marcus Bell"],
+  "genre": ["Action", "Comedy"]
+},
+{
+  "title": "Matrix",
+  "date": "2008",
+  "carrier": "BR",
+  "actor":["Malcolm Wilson", "Isaiah Sanchez", "Samir Ramirez"],
+  "genre": ["Drama", "Fantasy", "Horror"]
+},
+{
+  "title": "The northman",
+  "date": "2010",
+  "carrier": "CD",
+  "actor":["Samir Ramirez", "Wesley Bryant", "Westin Parker"],
+  "genre": ["Romance", "Fantasy"]
+},
+{
+  "title": "The lost city",
+  "date": "2018",
+  "carrier": "video",
+  "actor":["Ricardo Robinson", "Matias Taylor", "Samir Ramirez"],
+  "genre": ["Romance", "Fantasy"]
+},
+{
+  "title": "X",
+  "date": "2020",
+  "carrier": "BR",
+  "actor":["Matias Taylor", "Malcolm Wilson", "Samir Ramirez"],
+  "genre": ["Action", "Comedy"]
+},
+{
+  "title": "The innocents",
+  "date": "2022",
+  "carrier": "video",
+  "actor":["Westin Parker", "Elliot Jones"],
+  "genre": ["Romance", "Fantasy", "Action"]
+},
+{
+  "title": "The batman",
+  "date": "2002",
+  "carrier": "",
+  "actor":["Wesley Bryant", "Ricardo Robinson"],
+  "genre": ["Romance", "Fantasy"]
+}]
